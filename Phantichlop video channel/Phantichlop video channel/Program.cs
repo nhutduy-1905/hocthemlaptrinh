@@ -49,15 +49,31 @@ namespace MyApplication
             {
                 channelName = newChannelName;
             }
+            class InputUSer()
+            {
+
+                static void main()
+                {
+                    string nameChannel = Console.ReadLine('btran');
+                    string avatarChannel = Console.ReadLine('https://yt3.googleusercontent.com/ANLvpKDqDwu21odl58XTeRGBqMiyMPLHHGLuOakCB4ZNfs_Q-EhE2z2VIta1hTjTGCChR6xWMgY=s160-c-k-c0x00ffffff-no-rj');
+                    string timeVideo = Console.ReadLine('16:04');
+                    string viewVideo = Console.ReadLine('73N');
+                    string nameVideo = Console.ReadLine('Động lực học tập hãy sống đúng với ước mơ của bạn');
+
+
+                }
+
+            }
+
             class Program
                 {
                 static void Main(string[] args)
                 {
-                    Video v = new Video("btrann",
-                        "https://yt3.googleusercontent.com/ANLvpKDqDwu21odl58XTeRGBqMiyMPLHHGLuOakCB4ZNfs_Q-EhE2z2VIta1hTjTGCChR6xWMgY=s160-c-k-c0x00ffffff-no-rj",
-                        "16:04",
-                        "73N",
-                        "[Động lực học tập] Hãy sống đúng với ước mơ của bạn",
+                    Video v = new Video("nameChannel",
+                        "avatarChannel",
+                        "timeVideo",
+                        "viewVideo",
+                        "nameVideo",
                         "https://youtu.be/brXyzK0yQbU?t=13"
                         );                  
                     Console.OutputEncoding = Encoding.UTF8;
