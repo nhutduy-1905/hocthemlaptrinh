@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\bin\Debug\net8.0\Phantichlop video channel.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\bin\Debug\net8.0\Phantichlop video channel.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\bin\Debug\net8.0\Phantichlop video channel.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\bin\Debug\net8.0\Phantichlop video channel.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\bin\Debug\net8.0\Phantichlop video channel.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\refint\Phantichlop video channel.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\Phantichlop video channel.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Phantichlop video channel\Phantichlop video channel\obj\Debug\net8.0\ref\Phantichlop video channel.dll
